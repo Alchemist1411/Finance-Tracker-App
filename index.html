@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Personal Finance Tracker</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <h1>Personal Finance Tracker</h1>
+    <div class="balanceContainer">
+      <div class="balance">Current Balance<br>
+        <span id="balance" class="balanceSpan">0</span></div>
+      
+    </div>
+
+    <div class="partition">
+      <div class="add-transactions">
+        <h2>Add Transaction</h2>
+        
+        <form id="transaction-form" class = "transaction-form">
+          <label for="type">Type:</label>
+          <select id="type">
+            <option value="income">Income</option>
+            <option value="expense">Expense</option>
+          </select>
+          <br />
+          <label for="description">Description:</label>
+          <input type="text" id="description" />
+          <br />
+          <label for="amount">Amount:</label>
+          <input type="number" id="amount" />
+          <br />
+          <input type="submit" class = "submit-button" value="Add Transaction" />
+        </form>
+      </div>
+      <div class="show-transactions">
+        <h2>Transactions</h2>
+        <ul id="transactions" class="transaction-container"></ul>
+      </div>
+    </div>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
