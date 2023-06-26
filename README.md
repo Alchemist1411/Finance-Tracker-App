@@ -1,10 +1,13 @@
+# Microsoft GitHub Copilot Hackathon Submissions
+- [Weather Forecasting CLI Tool (Python)](https://github.com/Alchemist1411/WeatherApp)
+- Personal Finance Tracker
 
 # Personal Finance Tracker
 
 The Personal Finance Tracker is a web-based application that allows users to track their income and expenses. It provides a simple and intuitive interface for adding, editing, and deleting transactions, as well as displaying the current balance.
 
 ## Check it out
-`https://witty-sky-0a396fc00.3.azurestaticapps.net/`
+[https://witty-sky-0a396fc00.3.azurestaticapps.net/](https://witty-sky-0a396fc00.3.azurestaticapps.net/)
 
 ## Features
 
@@ -17,10 +20,7 @@ The Personal Finance Tracker is a web-based application that allows users to tra
 
 ![Screenshot (266)](https://github.com/Alchemist1411/Finance-Tracker-App/assets/94208034/72c3e792-0880-4f0d-a3b9-b0651962d553)
 ![Screenshot (267)](https://github.com/Alchemist1411/Finance-Tracker-App/assets/94208034/be9c60c5-e025-4255-906b-40b9d962ad6a)
-![Screenshot (268)](https://github.com/Alchemist1411/Finance-Tracker-App/assets/94208034/ea582ef8-73ed-460d-acbb-5aea35191d45)
 ![Screenshot (269)](https://github.com/Alchemist1411/Finance-Tracker-App/assets/94208034/9a86e96d-f468-4ed6-88c7-499683fcb3f0)
-![Screenshot (270)](https://github.com/Alchemist1411/Finance-Tracker-App/assets/94208034/3bd951dc-62c4-496d-943f-55f2f8ecfdf0)
-![Screenshot (271)](https://github.com/Alchemist1411/Finance-Tracker-App/assets/94208034/55020354-dce8-4b06-a58d-84109e589c99)
 
 ## Technologies Used
 
