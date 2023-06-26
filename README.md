@@ -2,7 +2,7 @@
 - [Weather Forecasting CLI Tool (Python)](https://github.com/Alchemist1411/WeatherApp)
 - Personal Finance Tracker
 
-# Personal Finance Tracker
+# Personal Finance Tracker 💸
 
 The Personal Finance Tracker is a web-based application that allows users to track their income and expenses. It provides a simple and intuitive interface for adding, editing, and deleting transactions, as well as displaying the current balance.
 
