@@ -35,7 +35,7 @@ function updateTransactions() {
 
   // Update the balance
   const balance = income - expense;
-  balanceElement.textContent = '₹ ' + balance + '.00';
+  balanceElement.textContent = 'Rs ' + balance + '.00';
 
   // Add event listeners to edit and delete buttons
   const editButtons = document.querySelectorAll('.edit-btn');
